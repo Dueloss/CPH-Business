@@ -39,11 +39,17 @@ namespace Projeckt_Labyrint
 
         private void MazePaint(object sender, PaintEventArgs e)
         {
+            Dictionary<char, Color> color = new Dictionary<char, Color>();
+            color.Add('B', Color.Green);
+            color.Add('E', Color.Red);
+            color.Add('X', Color.Blue);
+            color.Add(',', Color.Yellow);
+            color.Add('*', Color.Pink);
+            color.Add(' ', this.BackColor);
+            
             if (!MyMaze.isEmpty())
             {
                 e.Graphics.Clear(this.BackColor);
-                Pen p = new Pen(Color.Red, 3);
-
                 int width = DisplayRectangle.Width;
                 int height = DisplayRectangle.Height;
                 int left = DisplayRectangle.Left;
@@ -57,26 +63,7 @@ namespace Projeckt_Labyrint
                     for (int j = 0; j < MyMaze.X; j++)
                     {
                         Rectangle r = new Rectangle(j * xPix, i * yPix, xPix, yPix);
-                        switch (MyMaze.Tial(j, i))
-                        {
-                            case 'B':
-                                e.Graphics.FillRectangle(new SolidBrush(Color.Green), r);
-                                break;
-                            case 'E':
-                                e.Graphics.FillRectangle(new SolidBrush(Color.Red), r);
-                                break;
-                            case 'X':
-                                e.Graphics.FillRectangle(new SolidBrush(Color.Blue), r);
-                                break;
-                            case ',':
-                                e.Graphics.FillRectangle(new SolidBrush(Color.Yellow), r);
-                                break;
-                            case '*':
-                                e.Graphics.FillRectangle(new SolidBrush(Color.Pink), r);
-                                break;
-                            default:
-                                break;
-                        }
+                        e.Graphics.FillRectangle(new SolidBrush(color[MyMaze.Tial(j, i)]), r);
                     }
                 }
             }
@@ -101,7 +88,7 @@ namespace Projeckt_Labyrint
                 {
                     way = new DeepsFirst(MyMaze);
                 }
-                way.findWay();
+                way.FindPath();
 
                 Invalidate();
             }

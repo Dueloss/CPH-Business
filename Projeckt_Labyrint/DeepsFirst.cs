@@ -18,7 +18,7 @@ namespace Projeckt_Labyrint
             myMaze = labyrint;
         }
 
-        public void findWay()
+        public void FindPath()
         {
             Clear();
 
