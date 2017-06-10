@@ -1,0 +1,27 @@
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\bin\Debug\Projeckt_Labyrint.exe.config
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\bin\Debug\Projeckt_Labyrint.exe
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\bin\Debug\Projeckt_Labyrint.pdb
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.exe
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.pdb
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.csprojResolveAssemblyReference.cache
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\bin\Debug\Labyrint\Labyrint01.txt
+C:\Users\kimbj\Documents\Visual Studio 2017\Projects\Labyrint\Projeckt_Labyrint\bin\Debug\Labyrint\Labyrint01.txt
+C:\Users\kimbj\Documents\Visual Studio 2017\Projects\Labyrint\Projeckt_Labyrint\bin\Debug\Projeckt_Labyrint.exe.config
+C:\Users\kimbj\Documents\Visual Studio 2017\Projects\Labyrint\Projeckt_Labyrint\bin\Debug\Projeckt_Labyrint.exe
+C:\Users\kimbj\Documents\Visual Studio 2017\Projects\Labyrint\Projeckt_Labyrint\bin\Debug\Projeckt_Labyrint.pdb
+C:\Users\kimbj\Documents\Visual Studio 2017\Projects\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.exe
+C:\Users\kimbj\Documents\Visual Studio 2017\Projects\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.pdb
+C:\Users\kimbj\Documents\Visual Studio 2017\Projects\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.MazeControl.resources
+C:\Users\kimbj\Documents\Visual Studio 2017\Projects\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.MazeForm.resources
+C:\Users\kimbj\Documents\Visual Studio 2017\Projects\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.csproj.GenerateResource.Cache
+C:\Users\kimbj\Documents\Visual Studio 2017\Projects\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.csprojResolveAssemblyReference.cache
+C:\Users\kimbj\OneDrive\Programmering\Copenhagen Business Academy\Videregående programmering\Project\Labyrint\Projeckt_Labyrint\bin\Debug\Labyrint\Labyrint01.txt
+C:\Users\kimbj\OneDrive\Programmering\Copenhagen Business Academy\Videregående programmering\Project\Labyrint\Projeckt_Labyrint\bin\Debug\Projeckt_Labyrint.exe.config
+C:\Users\kimbj\OneDrive\Programmering\Copenhagen Business Academy\Videregående programmering\Project\Labyrint\Projeckt_Labyrint\bin\Debug\Projeckt_Labyrint.exe
+C:\Users\kimbj\OneDrive\Programmering\Copenhagen Business Academy\Videregående programmering\Project\Labyrint\Projeckt_Labyrint\bin\Debug\Projeckt_Labyrint.pdb
+C:\Users\kimbj\OneDrive\Programmering\Copenhagen Business Academy\Videregående programmering\Project\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.csprojResolveAssemblyReference.cache
+C:\Users\kimbj\OneDrive\Programmering\Copenhagen Business Academy\Videregående programmering\Project\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.MazeForm.resources
+C:\Users\kimbj\OneDrive\Programmering\Copenhagen Business Academy\Videregående programmering\Project\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.csproj.GenerateResource.Cache
+C:\Users\kimbj\OneDrive\Programmering\Copenhagen Business Academy\Videregående programmering\Project\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.exe
+C:\Users\kimbj\OneDrive\Programmering\Copenhagen Business Academy\Videregående programmering\Project\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.pdb
+C:\Users\kimbj\OneDrive\Programmering\Copenhagen Business Academy\Videregående programmering\Project\Labyrint\Projeckt_Labyrint\obj\Debug\Projeckt_Labyrint.MazeControl.resources

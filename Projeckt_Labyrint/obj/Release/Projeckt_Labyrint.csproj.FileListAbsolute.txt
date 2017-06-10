@@ -1,0 +1,7 @@
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\bin\Release\Projeckt_Labyrint.exe.config
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\bin\Release\Projeckt_Labyrint.exe
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\bin\Release\Projeckt_Labyrint.pdb
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\obj\Release\Projeckt_Labyrint.exe
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\obj\Release\Projeckt_Labyrint.pdb
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\bin\Release\Labyrint\Labyrint01.txt
+C:\Users\kimbj\Documents\Visual Studio 2015\Projects\Labyrint\Projeckt_Labyrint\obj\Release\Projeckt_Labyrint.csprojResolveAssemblyReference.cache
